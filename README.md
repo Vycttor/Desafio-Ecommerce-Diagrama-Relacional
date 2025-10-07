@@ -25,7 +25,7 @@ O Modelo Entidade-Relacionamento (MER) foi escolhido para representar a estrutur
 
 O diagrama foi desenvolvido utilizando o MySQL Workbench.
 
-![Diagrama Entidade-Relacionamento do E-commerce](igm/Desafio-E-commerce-Diagrama.png)
+![Diagrama Entidade-Relacionamento do E-commerce](img/Desafio-E-commerce-Diagrama.png)
 
 ## Conclusão e Aprendizados
 A conclusão da modelagem de dados para o projeto de E-commerce resultou em um esquema otimizado para o registro de vendas e gerenciamento de estoque e clientes.
